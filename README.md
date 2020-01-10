@@ -1,3 +1,3 @@
 # gameOfLife
 
-preview: https://gu234.github.io/gameOfLife/
+You can click on squares to change their state 
